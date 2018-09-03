@@ -36,3 +36,7 @@ class Mine(Resource):
     def get(self):
         # return render_template('mine/mine.html')
         pass
+
+
+
+print("sss")
